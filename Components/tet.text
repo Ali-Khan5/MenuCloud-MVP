@@ -1,0 +1,69 @@
+item: {
+	order_mod:[
+		{
+			type : "radio",
+			required: true,
+			name: "",
+			description: "",
+			selections: [
+				{	
+					name: "olives"
+					price: "3.00"
+				},
+				{	
+					name: "peppers"
+					price: "2.00"
+				},
+				{	
+					name: "cheese"
+					price: "2.00"
+				}
+			]
+		},
+		{
+			type : "checkbox",
+			required: true,
+			min_selections: 2,
+			max_selections: 5
+			selections: [
+				{	
+					name: "olives"
+					price: "3.00"
+				},
+				{	
+					name: "peppers"
+					price: "2.00"
+				},
+				{	
+					name: "cheese"
+					price: "2.00"
+				}
+			]
+		}
+	 ]
+}
+ ftProducts['134086'] = 
+ { id: 134086, cat_id: 15321, title: 'Dinner For 4', image_large: '',
+  price: 64.00, custom_vars: {}, extras:
+   [ { id: 57698, title: 'Extra', selectable: 99, mandatory: 0, pizza: 0,
+    items: [ { id: 350010, title: 'Extra Tzatziki', color: '', price: 1.25, price2: 0 },
+	 { id: 350011, title: 'Extra Pita', color: '', price: 1.25, price2: 0 }, 
+	 { id: 350012, title: 'Extra Feta', color: '', price: 2.00, price2: 0 }, 
+	 { id: 350013, title: 'Olives', color: '', price: 3.00, price2: 0 },
+	  { id: 350014, title: 'Add Gyros', color: '', price: 5.00, price2: 0 }, 
+	  { id: 350015, title: 'Extra chicken stick', color: '', price: 5.00, price2: 0 }, 
+	  { id: 350016, title: 'Extra pork stick', color: '', price: 5.00, price2: 0 },
+	   { id: 350017, title: 'Extra beef stick', color: '', price: 6.00, price2: 0 }, 
+	   { id: 350018, title: 'Extra lamb stick', color: '', price: 7.00, price2: 0 },
+	    { id: 350019, title: 'Extra shrimp stick', color: '', price: 5.00, price2: 0 } ] },
+		 { id: 57682, title: 'Choose your souvlaki', selectable: 1, mandatory: 1, pizza: 0, items: [ { id: 349946, title: '1 stick chicken', color: '', price: 0.00, price2: 0.00 },
+		  { id: 349947, title: '1 stick pork', color: '', price: 0.00, price2: 0.00 }, 
+		  { id: 349948, title: '1 stick beef', color: '', price: 1.50, price2: 0.00 }, 
+		  { id: 349949, title: '1 stick lamb', color: '', price: 1.50, price2: 0.00 } ] }, 
+		  { id: 57682, title: 'Choose your souvlaki', selectable: 1, mandatory: 1, pizza: 0, items: [ { id: 349946, title: '1 stick chicken', color: '', price: 0.00, price2: 0.00 }, { id: 349947, title: '1 stick pork', color: '', price: 0.00, price2: 0.00 },
+		   { id: 349948, title: '1 stick beef', color: '', price: 1.50, price2: 0.00 },
+		    { id: 349949, title: '1 stick lamb', color: '', price: 1.50, price2: 0.00 } ] },
+			 { id: 57682, title: 'Choose your souvlaki', selectable: 1, mandatory: 1, pizza: 0, items: [ { id: 349946, title: '1 stick chicken', color: '', price: 0.00, price2: 0.00 }, { id: 349947, title: '1 stick pork', color: '', price: 0.00, price2: 0.00 },
+			  { id: 349948, title: '1 stick beef', color: '', price: 1.50, price2: 0.00 },
+			   { id: 349949, title: '1 stick lamb', color: '', price: 1.50, price2: 0.00 } ] },
+			    { id: 57682, title: 'Choose your souvlaki', selectable: 1, mandatory: 1, pizza: 0, items: [ { id: 349946, title: '1 stick chicken', color: '', price: 0.00, price2: 0.00 }, { id: 349947, title: '1 stick pork', color: '', price: 0.00, price2: 0.00 }, { id: 349948, title: '1 stick beef', color: '', price: 1.50, price2: 0.00 }, { id: 349949, title: '1 stick lamb', color: '', price: 1.50, price2: 0.00 } ] }, { id: 57682, title: 'Choose your souvlaki', selectable: 1, mandatory: 1, pizza: 0, items: [ { id: 349946, title: '1 stick chicken', color: '', price: 0.00, price2: 0.00 }, { id: 349947, title: '1 stick pork', color: '', price: 0.00, price2: 0.00 }, { id: 349948, title: '1 stick beef', color: '', price: 1.50, price2: 0.00 }, { id: 349949, title: '1 stick lamb', color: '', price: 1.50, price2: 0.00 } ] }, { id: 57682, title: 'Choose your souvlaki', selectable: 1, mandatory: 1, pizza: 0, items: [ { id: 349946, title: '1 stick chicken', color: '', price: 0.00, price2: 0.00 }, { id: 349947, title: '1 stick pork', color: '', price: 0.00, price2: 0.00 }, { id: 349948, title: '1 stick beef', color: '', price: 1.50, price2: 0.00 }, { id: 349949, title: '1 stick lamb', color: '', price: 1.50, price2: 0.00 } ] }, { id: 57682, title: 'Choose your souvlaki', selectable: 1, mandatory: 1, pizza: 0, items: [ { id: 349946, title: '1 stick chicken', color: '', price: 0.00, price2: 0.00 }, { id: 349947, title: '1 stick pork', color: '', price: 0.00, price2: 0.00 }, { id: 349948, title: '1 stick beef', color: '', price: 1.50, price2: 0.00 }, { id: 349949, title: '1 stick lamb', color: '', price: 1.50, price2: 0.00 } ] }, { id: 57682, title: 'Choose your souvlaki', selectable: 1, mandatory: 1, pizza: 0, items: [ { id: 349946, title: '1 stick chicken', color: '', price: 0.00, price2: 0.00 }, { id: 349947, title: '1 stick pork', color: '', price: 0.00, price2: 0.00 }, { id: 349948, title: '1 stick beef', color: '', price: 1.50, price2: 0.00 }, { id: 349949, title: '1 stick lamb', color: '', price: 1.50, price2: 0.00 } ] }, { id: 56450, title: 'Drinks?', selectable: 1, mandatory: 1, pizza: 0, items: [ { id: 343343, title: '7-up Can', color: '', price: 0.00, price2: 0 }, { id: 343344, title: 'A & W - Root Beer Can', color: '', price: 0.00, price2: 0 }, { id: 343345, title: 'Coca-Cola Can', color: '', price: 0.00, price2: 0 }, { id: 343346, title: 'Coke Zero Can', color: '', price: 0.00, price2: 0 }, { id: 343347, title: 'Diet 7-up Can', color: '', price: 0.00, price2: 0 }, { id: 343348, title: 'Diet Coca-Cola Can', color: '', price: 0.00, price2: 0 }, { id: 343349, title: 'Pepsi Can', color: '', price: 0.00, price2: 0 }, { id: 343350, title: 'Pepsi Diet Can', color: '', price: 0.00, price2: 0 }, { id: 2840594, title: 'Ginger Ale Can', color: '', price: 0.00, price2: 0 }, { id: 349950, title: 'Nestea', color: '', price: 0.25, price2: 0 }, { id: 349951, title: 'IOLI water', color: '', price: 0.25, price2: 0 } ] }, { id: 56450, title: 'Drinks?', selectable: 1, mandatory: 1, pizza: 0, items: [ { id: 343343, title: '7-up Can', color: '', price: 0.00, price2: 0 }, { id: 343344, title: 'A & W - Root Beer Can', color: '', price: 0.00, price2: 0 }, { id: 343345, title: 'Coca-Cola Can', color: '', price: 0.00, price2: 0 }, { id: 343346, title: 'Coke Zero Can', color: '', price: 0.00, price2: 0 }, { id: 343347, title: 'Diet 7-up Can', color: '', price: 0.00, price2: 0 }, { id: 343348, title: 'Diet Coca-Cola Can', color: '', price: 0.00, price2: 0 }, { id: 343349, title: 'Pepsi Can', color: '', price: 0.00, price2: 0 }, { id: 343350, title: 'Pepsi Diet Can', color: '', price: 0.00, price2: 0 }, { id: 2840594, title: 'Ginger Ale Can', color: '', price: 0.00, price2: 0 }, { id: 349950, title: 'Nestea', color: '', price: 0.25, price2: 0 }, { id: 349951, title: 'IOLI water', color: '', price: 0.25, price2: 0 } ] }, { id: 56450, title: 'Drinks?', selectable: 1, mandatory: 1, pizza: 0, items: [ { id: 343343, title: '7-up Can', color: '', price: 0.00, price2: 0 }, { id: 343344, title: 'A & W - Root Beer Can', color: '', price: 0.00, price2: 0 }, { id: 343345, title: 'Coca-Cola Can', color: '', price: 0.00, price2: 0 }, { id: 343346, title: 'Coke Zero Can', color: '', price: 0.00, price2: 0 }, { id: 343347, title: 'Diet 7-up Can', color: '', price: 0.00, price2: 0 }, { id: 343348, title: 'Diet Coca-Cola Can', color: '', price: 0.00, price2: 0 }, { id: 343349, title: 'Pepsi Can', color: '', price: 0.00, price2: 0 }, { id: 343350, title: 'Pepsi Diet Can', color: '', price: 0.00, price2: 0 }, { id: 2840594, title: 'Ginger Ale Can', color: '', price: 0.00, price2: 0 }, { id: 349950, title: 'Nestea', color: '', price: 0.25, price2: 0 }, { id: 349951, title: 'IOLI water', color: '', price: 0.25, price2: 0 } ] }, { id: 56450, title: 'Drinks?', selectable: 1, mandatory: 1, pizza: 0, items: [ { id: 343343, title: '7-up Can', color: '', price: 0.00, price2: 0 }, { id: 343344, title: 'A & W - Root Beer Can', color: '', price: 0.00, price2: 0 }, { id: 343345, title: 'Coca-Cola Can', color: '', price: 0.00, price2: 0 }, { id: 343346, title: 'Coke Zero Can', color: '', price: 0.00, price2: 0 }, { id: 343347, title: 'Diet 7-up Can', color: '', price: 0.00, price2: 0 }, { id: 343348, title: 'Diet Coca-Cola Can', color: '', price: 0.00, price2: 0 }, { id: 343349, title: 'Pepsi Can', color: '', price: 0.00, price2: 0 }, { id: 343350, title: 'Pepsi Diet Can', color: '', price: 0.00, price2: 0 }, { id: 2840594, title: 'Ginger Ale Can', color: '', price: 0.00, price2: 0 }, { id: 349950, title: 'Nestea', color: '', price: 0.25, price2: 0 }, { id: 349951, title: 'IOLI water', color: '', price: 0.25, price2: 0 } ] } ], x:0 }; 
